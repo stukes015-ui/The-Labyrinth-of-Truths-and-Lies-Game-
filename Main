@@ -1,12 +1,12 @@
 /******************************************************************************
 
 The Labyrinth of Truths and Lies Game
-Names: Ethan Sovereign, Donovan Stukes
+Names: Ethan Sovereign, Donovan Stukes 
 
 *******************************************************************************/
 #include <iostream>
 using namespace std;
-
+//test
 int main()
 {
     cout << "Hello World";
